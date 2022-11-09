@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Buy my physical NFT's</h1>
+        <h1 className={styles.title}>Buy my physical NFT&apos;</h1>
 
         <p className={styles.description}>Get started</p>
         <div className={styles.grid}>
